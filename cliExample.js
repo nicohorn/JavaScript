@@ -28,5 +28,6 @@ function cliExample() {
 }
 
 cliExample();
+a
 
 
